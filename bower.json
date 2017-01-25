@@ -1,0 +1,26 @@
+{
+  "name": "sb-admin-v1",
+  "homepage": "http://startbootstrap.com/",
+  "description": "StartBootstrap's Admin Template V1",
+  "main": "",
+  "keywords": [
+    "sb-admin",
+    "startbootstrap",
+    "admin",
+    "startbootstrap-admin"
+  ],
+  "authors": [
+    "BlackRockDigital<http://startbootstrap.com/>"
+  ],
+  "license": "MIT",
+  "main": [
+    "css/sb-admin.css"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
